@@ -7,9 +7,6 @@
                               ╰──────────────────────────────────────────╯
 ```
 
-**热衷于 AI 产品创新的产品设计师与 Builder**  
-用户研究 · 产品规划 · UI/UX · 从 0 到 1 落地
-
 [![GitHub](https://img.shields.io/badge/GitHub-bukeke111-181717?style=flat-square&logo=github)](https://github.com/bukeke111)
 [![Focus](https://img.shields.io/badge/Focus-AI_Product-512BD4?style=flat-square&logo=openai&logoColor=white)](https://github.com/bukeke111)
 [![Stack](https://img.shields.io/badge/Stack-Design_×_Code-000?style=flat-square)](https://github.com/bukeke111/AI-academic-review)
