@@ -1,10 +1,10 @@
 <div align="center">
 
 ```text
-                 ╭──────────────────────────────────────────╮
-                 │  Claire · Product Designer × Builder     │
-                 │  AI × Design × HCI                       │
-                 ╰──────────────────────────────────────────╯
+                      ╭──────────────────────────────────────────╮
+                      │  Claire · Product Designer × Builder     │
+                      │  AI × Design × HCI                       │
+                      ╰──────────────────────────────────────────╯
 ```
 
 **热衷于 AI 产品创新的产品设计师与 Builder**  
