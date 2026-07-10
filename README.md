@@ -2,7 +2,7 @@
 
 ```text
                               ╭──────────────────────────────────────────╮
-                              │  Claire · Product Designer × Builder     │
+                              │  Yihbbb· Product Designer × Builder     │
                               │           AI × Design × HCI              │
                               ╰──────────────────────────────────────────╯
 ```
